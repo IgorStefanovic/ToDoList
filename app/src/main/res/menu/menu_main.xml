@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sigor.todolist.MainActivity">
+
+    <item
+        android:id="@+id/all"
+        android:orderInCategory="100"
+        android:title="@string/all"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/shopping"
+        android:orderInCategory="100"
+        android:title="@string/shopping"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/wishlist"
+        android:orderInCategory="100"
+        android:title="@string/wishlist"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/work"
+        android:orderInCategory="100"
+        android:title="@string/work"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/personal"
+        android:orderInCategory="100"
+        android:title="@string/personal"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/finished"
+        android:orderInCategory="100"
+        android:title="@string/finished"
+        app:showAsAction="never" />
+
+</menu>

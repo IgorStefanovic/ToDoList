@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TODOList</string>
+    <string name="todo_name">Name</string>
+    <string name="todo_description">Description</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="edit_button">Confirm</string>
+    <string name="remove_button">Remove</string>
+    <string name="done">Done</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="finished">Finished</string>
+    <string name="all">All</string>
+    <string name="personal">Personal</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="work">Work</string>
+    <string name="shopping">Shopping</string>
+</resources>
